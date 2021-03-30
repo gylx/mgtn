@@ -1,6 +1,6 @@
 # Tensor Networks for Multi-Modal Non-Euclidean Data
 
-This repository contains the TensorFlow implementation of the experiments discussed in the [Tensor Networks for Multi-Modal Non-Euclidean Data] paper.
+This repository contains the TensorFlow implementation of the experiments discussed in the [Tensor Networks for Multi-Modal Non-Euclidean Data](https://arxiv.org/abs/2103.14998) paper.
 
 ## Terms of Use and Citation
 
