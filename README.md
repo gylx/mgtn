@@ -7,10 +7,12 @@ This repository contains the TensorFlow implementation of the experiments discus
 The code is provided for research purposes only and without any warranty. Any commercial use is prohibited. When using the code in your research work, you should cite the following paper:
 
 ```
-@inproceedings{xu2020multigraph,
-  title={Multi-Graph Tensor Networks},
+@misc{xu2021tensor,
+  title={Tensor Networks for Multi-Modal Non-Euclidean Data}, 
   author={Yao Lei Xu and Kriton Konstantinidis and Danilo P. Mandic},
-  booktitle={First Workshop on Quantum Tensor Networks in Machine Learning, 34th Conference on Neural Information Processing Systems (NeurIPS 2020)},
-  year={2020}
+  year={2021},
+  eprint={2103.14998},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG}
 }
 ```
